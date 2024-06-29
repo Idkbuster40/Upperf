@@ -12,6 +12,16 @@ modification, are permitted provided that the following conditions are met:
    this list of conditions and the following disclaimer in the documentation
    and/or other materials provided with the distribution.
 
+3. Redistributions of this source code in a closed source format must have 
+   this license in a format which can be read and agreed with or 
+   disagreed with, and a copy of the source code is made it must
+   be open source and easily accessible by the general public
+   in the case if it is used with closed source software, redistribution 
+   in closed-source format requires explicit permission from the copyright holder; 
+   derivative works must be open-source and approved, 
+   with clear attribution and a link to the original repository.
+   
+
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
@@ -22,6 +32,9 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+This license is based on the BSD 2-Clause License, 
+which can be found at: https://opensource.org/licenses/BSD-2-Clause.
 
 Note: This mod is a derivative work of Minecraft, and its use is subject to the 
 Minecraft End User License Agreement and 
