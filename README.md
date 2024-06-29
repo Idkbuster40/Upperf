@@ -3,7 +3,7 @@
 
 ![The Upperf logo in a 256 by 256 resoulution.](https://github.com/Idkbuster40/Upperf/blob/master/upperf_logo_256.png) 
 
-### Info: Upperf is an (*very very very* work in progress) Minecraft optimization mod targeting versions compatible from 1.0.0 to 1.12.2. (the current focus is Minecraft 1.8.8) The mod uses JNI (Java Native Interface), which is a feature in Java and uses it with C (_primarily_) to use more better optimization features usually found in most other games and game engines and using experimental or new features which can be used to optimize the game along with faster loading times in game overall. See the rest of the README.md file for a full list of planned features and more info. (until I return to it or actively begin to work on it, give me 3-5 buissness days, maybe longer. I need time to learn more advanced about this stuff.)
+### Info: Upperf is an (*very very very* work in progress) Minecraft optimization mod targeting versions compatible from 1.0.0 to 1.12.2. (the current focus is Minecraft 1.8.8) The mod uses JNI (Java Native Interface), which is a feature in Java and uses it with C (_primarily_) to use more better optimization features usually found in most other games and game engines and using experimental or new features which can be used to optimize the game along with faster loading times in game overall. See the rest of the README.md file for a full list of planned features and more info. (until I return to it or actively begin to work on it, give me 3-5 buissness days, maybe longer. I need time to learn about this stuff, which is pretty advanced.)
 
 The name basically stands for "increased performance" in a weird way. I initially wanted to work on this mod 3 years ago but kept it off till now.
 
