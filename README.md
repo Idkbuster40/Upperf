@@ -49,7 +49,7 @@ If you are planning on committing or contributing to this repository please foll
  
   7. PLEASE at least try to be a little sensible about commit names, like instead of "Fix weird rendering bug" please try to write "Fix rendering bug with anisotropic filtering". It does not strictly need to be like that, but you (hopefully) get the gist.
   
-  8. When contributors have finished a major update, we will all agree to merge to the main branch.
+  8. When contributors have finished a major update, we will all agree to merge to the 'major_develop_<version_number>' branch. Then from there we test it and build a shippable binary.
      
   9. If you end up having a personal vendetta with someone, please take it outside of this github repository and refrain using the issues feature as a debate battlefield. Argue your personal differences outside of this repository. Refrain from being rude to one another and using offensive language in this repository. (I am iterating this once again, please understand what to do. Settle your differences outside of this repo. ...But this is the internet and people don't care. Well... Just listen to me please.)
   
