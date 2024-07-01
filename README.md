@@ -25,7 +25,7 @@ There are currently no plans for a forge mod version of Upperf.
   - [ ] Asset streaming from game files and cache.
   - [ ] Custom approach to greedy meshing.
   - [ ] Multithreaded C handoff for more CPU intensive tasks.
-  - [ ] Async chunk loading.
+  - [ ] GPU-based chunk loading? (Might have to use OpenCL here.)
   - [ ] ...Add more in the future here, I guess?
 
 
