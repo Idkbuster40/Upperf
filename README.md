@@ -32,7 +32,7 @@ There are currently no plans for a forge mod version of Upperf.
 ### Rules for committing/contributing:
 If you are planning on committing or contributing to this repository please follow these rules: 
 
-  0. The allowed languages are: Java, Kotlin (experimental), C, C++ (not recommended), ASM (x86, arm.etc. If you are feeling like you can take a challenge use this). As these are the languages that will work with JNI.
+  0. The allowed languages are: Java, Scala, Kotlin (experimental), C, C++ (not recommended), ASM (x86, arm .etc, if you are feeling like you can take a challenge use this). As these are the languages that will work with JNI.
   
   1. No one can commit directly on the main/master branch. Or edit the README file without notifying me first.
        
