@@ -3,7 +3,7 @@
 
 ![The Upperf logo in a 256 by 256 resoulution.](https://github.com/Idkbuster40/Upperf/blob/master/upperf_logo_256.png) 
 
-### Info: Upperf (pronounced "Up-perf") is a *very very very* work in progress Minecraft optimization mod targeting versions compatible from 1.0.0 to 1.12.2. (the current focus is Minecraft 1.8.8) The mod uses JNI (Java Native Interface), which is a feature in Java and uses it with C (_primarily_) to use more better optimization features usually found in most other games and game engines and using experimental or new features which can be used to optimize the game along with faster loading times in game overall. See the rest of the README.md file for a full list of planned features and more info. (Until I return to it or actively begin to work on it, give me 3-5 business days, maybe longer. I need time to learn about this stuff, which is pretty advanced.)
+### Info: Upperf (pronounced "Up-perf") is a *very very very* work in progress Minecraft optimization mod targeting versions compatible from 1.0.0 to 1.12.2. (the current focus is Minecraft 1.8.8) The mod uses JNI (Java Native Interface), which is a feature in Java and uses it with C (_primarily_) to use more better optimization features usually found in most other games and game engines and using experimental or new features which can be used to optimize the game along with faster loading times in game overall. See the rest of the README.md file for a full list of planned features and more info. (Until I return to it or actively begin to work on it, give me 3-5 business years, maybe longer. I need time to learn about this stuff, which is pretty advanced. Ok the years part was sarcasm, but you hopefully get the point as I am working on this now thanks to boredom.)
 
 The name basically stands for "increased performance" in a weird way. I initially wanted to work on this mod 3 years ago but kept it off till now.
 
@@ -14,15 +14,16 @@ Any forks must respect the license that is used in this project. And any shipped
 There are currently no plans for a forge mod version of Upperf.
 
 ### Checklist of features:
+  - [ ] Better math.
   - [ ] Generic optimisation increases (All the usual stuff that most mods/modpacks/clients do in MC for optimizing the game). 
-  - [ ] Custom LoDs.
-  - [ ] Async texture streaming.
+  - [ ] Custom LoDs. (Tricky.)
+  - [ ] Async texture streaming. (More so difficult.)
   - [ ] Offloading memory to a C program which has dynamic memory allocation. (Challenging to do, but where's the fun if you don't try;] But I need to plan this soon.)
-  - [ ] _Atomic based fences for loading assets, shaders and so on in C and Java sources.
-  - [ ] Caching texture, shader, world and model data.
-  - [ ] Better shadows and lighting. (Can be enabled optionally.)
+  - [ ] Memory fences for loading assets, shaders and so on in C and Java sources.
+  - [ ] Caching texture, shader, world and model data. 
+  - [ ] Better shadows and lighting? (Can be enabled optionally.)
   - [ ] Faster load times? I need to figure this one out.
-  - [ ] Asset streaming from game files and cache.
+  - [ ] Asset streaming from game files and cache. (Frostbite-esque implementation, there's a presentation by EA somewhere on the internet.)
   - [ ] Custom approach to greedy meshing.
   - [ ] Multithreaded C handoff for more CPU intensive tasks.
   - [ ] GPU-based chunk loading? (Might have to use OpenCL here.)
@@ -32,7 +33,7 @@ There are currently no plans for a forge mod version of Upperf.
 ### Rules for committing/contributing:
 If you are planning on committing or contributing to this repository please follow these rules: 
 
-  0. The allowed languages are: Java, Scala(experimental, might get used _somewhere_), Kotlin, C, C++ (not recommended), ASM (x86, arm .etc, if you are feeling like you can take a challenge use this). As these are the languages that will work with JNI.
+  0. The allowed languages are: Java and anything which works with JNI in a stable enough manner. (C preffered along with Java)
   
   1. No one can commit directly on the main/master branch. Or edit the README file without notifying me first.
        
