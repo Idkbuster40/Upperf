@@ -1,6 +1,4 @@
-I don't enjoy making this, but thanks to multiple controversies and drama in this community because of open-source software and proprietary software, I have to do this.
-I also don't want to worry about legal stuff so I am making this license. Because this software is free and open source, I am keeping this license for the time being. I tried to make this align with Minecraft's EULA. 
-You are free to use this license in your own projects if you don't largely modify it.
+
 
 UPPERF LICENSE
 --------------
@@ -10,36 +8,12 @@ Copyright (c) Idkbuster40, 2024.
 THE WORK IS PROVIDED "AS IS". NO WARRANTY OF ANY KIND. AUTHORS ARE NOT RESPONSIBLE FOR ANYTHING THAT HAPPENS FROM USING THE WORK.
 AUTHORS ARE NOT LIABLE FOR ANY DAMAGES FROM USING THE WORK, DIRECT OR INDIRECT.
 
-This work is Open Source. Modifications of this license are not permitted.
 
-1. ATTRIBUTION: You are not allowed to take credit for this work. 
-   You should also cite the original author(s) who created this work. 
-   Make that clear and easy to see on the internet/WWW. 
-   The source of this should be easily viewable on a public repository, try to be very transparent with this.
-   Just to specify, the source of this should be easily viewable on a public repository for transparency.
-   To set an example:
-   You could host your copy of your code on GitHub, Gitlab or a custom git server which can be publicly accessed.
-   Your copy of the source code must also remain publicly accessible even if the original authors cease active development and contain this license.
-   Any modifications cannot be created and distributed without the original author(s) discretion.
-   This work must not be saying that the work is attributed with any trademarked, registered and copyrighted software OR it is tied to a specific company.
-2. RIGHTS GRANTED: You are allowed to: Use, copy, modify and share the work and create and share 
-   derivative works if it is open source under this license.
-3. AVAILABILITY: This work should be easily available as its repositories should be open source. 
-   Monetizing this work is not allowed under any circumstances or in any way, shape or form. 
-   This goes for selling the product or offering it as part of a paid service.
-   This work is not meant for commercial use under any means and is meant to stay non-commercial in that manner.
-4. DERIVATIVE WORKS: You can make and share derivative works. 
-   Derivative works must have the same license as the original.
-5. REDISTRIBUTION: If you are redistributing this, you must keep the original license and copyright notice.
-6. TERMINATION: This license and the work lasts forever on a technicality. 
-   The original author(s) of this work can ask you to terminate your copy of the code and license if the license is not followed correctly. 
-   In that scenario, you must destroy or archive all your copies of the work, both binaries and source and stop using it.
-   Termination can occur if the original author(s) of this work suspect the license terms and other usage terms are violated. 
-   Including commercial usage and unfair use.
-   Termination can also occur at the discretion of the original author(s), to set an example: 
-   Your copy might get terminated if a modification of our work is used in a paid subscription format where you are offering "Mod+" when we do not.
-   Instances like this can get your copy terminated. Keep this in mind.
-7. BINARY REPRODUCTION: If you distribute binary forms of the work; 
-   Include the original copyright notice and license in the documentation or materials provided with the distribution.
-   You can cite the original authors in an 'AUTHORS-<PROJECT>.md' file. You can use slight variations of this example.
-8. COMPLIANCE: Follow the above rules. It should be really simple, if you cannot. Refrain from using this in your project(s). 
+
+1. ATTRIBUTION: You are not allowed to take all the credit for this work.
+
+2. USEAGE: Do whatever you want, making a paid version is discouraged. (Also against Minecraft's EULA.) Fork it, clone it, really anything goes.
+
+3. Please keep the unmodified version of the license in the repo at all times.
+
+Last modified: 30/12/24-12:48(EST)
