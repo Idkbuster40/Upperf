@@ -9,9 +9,7 @@ The name basically stands for "increased performance" in a weird way. I initiall
 
 Do note that the Minecraft source code OR MCP's source code is provided here. You will have to find it yourself. A build tutorial will be added soon to compile your own binaries.
 
-Any forks must respect the license that is used in this project. And any shipped binaries must also have the license in it, even if it is a custom Modification of Minecraft like a closed source PVP modpack/client or something similar, it must have the license. Forge does not strictly fall into this category. Open-source clients/modpacks do not need to follow this at all but I recommend adding the license just in case.
-
-There are currently no plans for a forge mod version of Upperf.
+There are currently no plans for a forge mod version of Upperf because I want to understand how minecraft works under the hood.
 
 ### Checklist of features:
   - [ ] Better math.
